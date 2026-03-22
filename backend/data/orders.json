@@ -1,0 +1,12 @@
+[
+  {"order_id": "ORD-240301-001", "customer_name": "김민수", "product_id": "P001", "product_name": "오버핏 코튼 티셔츠", "quantity": 2, "total_price": 52200, "status": "배송완료", "order_date": "2026-03-01", "delivery_date": "2026-03-04"},
+  {"order_id": "ORD-240305-002", "customer_name": "이서연", "product_id": "P003", "product_name": "가죽 크로스백", "quantity": 1, "total_price": 75650, "status": "배송중", "order_date": "2026-03-05", "delivery_date": null},
+  {"order_id": "ORD-240308-003", "customer_name": "박준혁", "product_id": "P004", "product_name": "워킹 러닝화", "quantity": 1, "total_price": 63200, "status": "상품준비중", "order_date": "2026-03-08", "delivery_date": null},
+  {"order_id": "ORD-240310-004", "customer_name": "최유진", "product_id": "P011", "product_name": "데님 자켓", "quantity": 1, "total_price": 66750, "status": "배송완료", "order_date": "2026-03-10", "delivery_date": "2026-03-13"},
+  {"order_id": "ORD-240312-005", "customer_name": "정하은", "product_id": "P014", "product_name": "캔버스 스니커즈", "quantity": 2, "total_price": 76500, "status": "배송중", "order_date": "2026-03-12", "delivery_date": null},
+  {"order_id": "ORD-240315-006", "customer_name": "김민수", "product_id": "P020", "product_name": "트렌치 코트", "quantity": 1, "total_price": 109650, "status": "결제완료", "order_date": "2026-03-15", "delivery_date": null},
+  {"order_id": "ORD-240317-007", "customer_name": "한소희", "product_id": "P007", "product_name": "린넨 와이드 팬츠", "quantity": 1, "total_price": 46550, "status": "배송완료", "order_date": "2026-03-17", "delivery_date": "2026-03-20"},
+  {"order_id": "ORD-240318-008", "customer_name": "오재민", "product_id": "P018", "product_name": "백팩 노트북 가방", "quantity": 1, "total_price": 67500, "status": "상품준비중", "order_date": "2026-03-18", "delivery_date": null},
+  {"order_id": "ORD-240320-009", "customer_name": "이서연", "product_id": "P015", "product_name": "실버 체인 목걸이", "quantity": 1, "total_price": 32000, "status": "결제완료", "order_date": "2026-03-20", "delivery_date": null},
+  {"order_id": "ORD-240322-010", "customer_name": "박준혁", "product_id": "P006", "product_name": "후드 집업 자켓", "quantity": 1, "total_price": 62100, "status": "배송중", "order_date": "2026-03-22", "delivery_date": null}
+]
